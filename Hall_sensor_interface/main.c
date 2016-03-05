@@ -43,7 +43,7 @@ int main(void){
 		uart_putc('\n');
 		uart_putc('\r');
 		
-		_delay_ms(50);
+		//_delay_ms(50);
     }
 }
 
